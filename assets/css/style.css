@@ -771,7 +771,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     margin-top:0px;
     outline: 0 !important;
     border:0;
-    color: #fff;
+    color: #fff
     border-radius: 0px;
     font-size:14px;
     -webkit-transition: .5s; 
@@ -797,7 +797,7 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
 .contact-add-head p {
     font-size:  16px;
     text-transform: capitalize;
-    color:  #636a82;
+    color: #636a82;
     font-weight:  300;
     margin-top:  6px;
 }
